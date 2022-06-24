@@ -18,7 +18,7 @@
 
 <h3 align="left">Outras redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/max-b-silva-982086220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/max-b-silva-982086220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/max-b-silva-982086220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/max-b-silva-982086220/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/max_neog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@max_neog" height="30" width="40" /></a>
 <a href="https://discord.gg/szpvRgv8sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="szpvRgv8sa" height="30" width="40" /></a>
 </p>

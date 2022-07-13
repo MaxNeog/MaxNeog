@@ -8,8 +8,8 @@
 - 📄 Estudando e trabalhando para trazer um portfolio digno: [(...)]((...))
 
 - 💬 Me pergunte sobre: 
-- **HTML**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
-- **CSS**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
+- **HTML**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+- **CSS**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
 - **JavaScript**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
 - 📫 Você pode me contatar aqui: **flowript@gmail.com**

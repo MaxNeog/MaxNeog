@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Max!!!</h1>
-<h3 align="center">Estou estudando programação front-end. No momento atual estudo sozinho mas estou gostando muito e estou muito animado para crescer nessa área.</h3>
+<h3 align="center">Estou estudando programação front-end. No momento atual estou cursando DEV no instituto Estacio (1º semestre) e estou gostando muito e estou muito animado para crescer nessa área.</h3>
 
 - 🔭 Atualmente praticando nesse projeto: **Pokedex** (Desculpe vou por o link em breve) <!-- [Pokedex]((Desculpe vou por o link em breve)) -->
 
-- 🌱 Atualmente focado em aprender: **HTML, CSS, JavaScript**
+- 🌱 Atualmente focado em aprender: **HTML, CSS, JavaScript, Node e React.**
 
 - 📄 Estudando e trabalhando para trazer um portfolio digno: [(...)]((...))
 
@@ -12,9 +12,9 @@
 - **CSS**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
 - **JavaScript**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
-- 📫 Você pode me contatar aqui: **flowript@gmail.com**
+- 📫 Você pode me contatar aqui: **neodevjs@gmail.com**
 
-- 📄 Trabalhei com muitas coisas, principalmente na área de vendas: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
+- 📄 Trabalhei com muitas coisas, principalmente na área de vendas, atualmente trabalho na Àrea adminstrativa na Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
 
 <h3 align="left">Outras redes:</h3>
 <p align="left">

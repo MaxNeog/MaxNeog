@@ -14,7 +14,7 @@
 
 - 📫 Você pode me contatar aqui: **neodevjs@gmail.com**
 
-- 📄 Trabalhei com muitas coisas, principalmente na área de vendas, atualmente trabalho na Área administrativa na Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
+- 📄 Já trabalhei em muitas áreas, principalmente na área de vendas, atualmente trabalho na área administrativa na Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
 
 <h3 align="left">Outras redes:</h3>
 <p align="left">

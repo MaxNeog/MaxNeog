@@ -1,20 +1,20 @@
 <h1 align="center">Olá, meu nome é Max!!!</h1>
 <h3 align="center">Estou em processo de migração de carreira para o mundo da tecnologia. No momento estou cursando Data Sciente no instituto Anhanguera (1º semestre) e estou gostando muito, estou muito animado para aprender mais sobre dados, manipulação e IA's.</h3>
 
-- 🔭 Atualmente praticando nesse projeto: **Pokedex** (Desculpe vou por o link em breve) <!-- [Pokedex]((Desculpe vou por o link em breve)) -->
+- 🔭 Atualmente praticando nesse projeto pois gosto de pokemon e quero criar um banco relacional para um jogo PIXIL de Pokemon: **Pokedex** (Desculpe vou por o link em breve) <!-- [Pokedex]((Desculpe vou por o link em breve)) -->
 
-- 🌱 Atualmente focado em aprender: **HTML, CSS, JavaScript, Node e React.**
+- 🌱 Atualmente focado em aprender: **Python, R, C#, SQL's, Machine Learning, IA Generativa,.**
 
 - 📄 Estudando e trabalhando para trazer um portfolio digno: [(...)]((...))
 
 - 💬 Me pergunte sobre: 
-- **HTML**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-- **CSS**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
-- **JavaScript**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
+- **SQL/PostgreSQL**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+- **Python "não sou muito Fã...**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
+- **C# "Delicia de linguagem"**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
-- 📫 Você pode me contatar aqui: **neodevjs@gmail.com**
+- 📫 Você pode me contatar aqui: **flowript@gmail.com**
 
-- 📄 Já trabalhei em muitas áreas, principalmente na área de vendas, atualmente trabalho na área administrativa na Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
+- 📄 Já trabalhei em muitas áreas, principalmente na área de vendas, atualmente trabalho como assistente de TI corporativo e ajudando em melhorias de telas, rotinas e desenvolvimento no hambiente Sênior ERP - HCM - Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
 
 <h3 align="left">Outras redes:</h3>
 <p align="left">

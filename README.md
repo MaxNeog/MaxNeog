@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Max!!!</h1>
-<h3 align="center">Estou estudando programação. No momento atual estou cursando data science no instituto FMU (1º semestre) e estou gostando muito e estou muito animado para crescer nessa área.</h3>
+<h3 align="center">Estou em processo de migração de carreira para o mundo da tecnologia. No momento estou cursando Data Sciente no instituto Anhanguera (1º semestre) e estou gostando muito, estou muito animado para aprender mais sobre dados, manipulação e IA's.</h3>
 
 - 🔭 Atualmente praticando nesse projeto: **Pokedex** (Desculpe vou por o link em breve) <!-- [Pokedex]((Desculpe vou por o link em breve)) -->
 

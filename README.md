@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre: 
 - **SQL/PostgreSQL**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-- **Python "não sou muito Fã...**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
+- **Python...**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
 - **C# "Delicia de linguagem"**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
 - 📫 Você pode me contatar aqui: **flowript@gmail.com**
